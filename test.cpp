@@ -86,5 +86,5 @@ int main(){
     insinhvien(sv1);
 }
 //sonchudaoday//
-//dafuyadfva//
-//daoday//
+//namkhanhdaoday//
+
